@@ -1,0 +1,10 @@
+
+pandas
+
+scikit-learn
+sklearn
+sklearn.feature_extraction
+
+
+streamlit
+
