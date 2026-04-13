@@ -1,0 +1,11 @@
+# Data Handling
+pandas
+
+# Machine Learning & Vectorization
+scikit-learn
+
+# Web Interface
+streamlit
+
+# Core Logic Dependencies (Regular Expressions are built-in)
+# No additional install needed for 're'
